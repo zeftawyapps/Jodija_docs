@@ -5,9 +5,9 @@
 ## What is Jodija? 
 It is comprised of two libraries that form a framework, each playing a role in managing the data flow from the interfaces to the servers. The two libraries are:
 
-1-** Jodija data source **: It manages the data flow that we receive or send to servers via APIs or any server platform like Firebase. It reshapes the data to align with business logic for display to the user if the data is coming from the server, or formats it as JSON when sending it to the servers.
+1-**Jodija data source**: It manages the data flow that we receive or send to servers via APIs or any server platform like Firebase. It reshapes the data to align with business logic for display to the user if the data is coming from the server, or formats it as JSON when sending it to the servers.
 
-2-** Jodija data view **:
+2-**Jodija data view**:
 
 
 
