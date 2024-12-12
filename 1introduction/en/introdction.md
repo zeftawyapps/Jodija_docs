@@ -1,4 +1,4 @@
-![](../jodija.png)
+![](../../jodija.png)
 
 ## Introduction to JOdija
 
