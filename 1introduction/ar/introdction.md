@@ -7,26 +7,3 @@
  
  **2-مكتبة Jodija data view**: هي مكتبة تتحكم في ادارة مسار البيانات القادمة من مكتبة Data source او اي Reposatory و تكون مشكلة اما على صيغة json h او تكون Data modele الخاص بها  ليتم عرضها على المستخدم و تحتوي على عدة ادوات ادخال تساعد المطور لي تطوير واجهات الادخال من صناديق نصوص و تواريج و ملفات صور ليتم تحولها الى صيغة json  بسهولة كما تحتوي على ادوات تخزين محلية و بها state managment  مبني على `cubit` ,  `provider`  و تحتوي على ادارة اعدادات المشروع ليتم ربط المشورع باي بيئة عمل و ادوات لجعل المشروع متعدد اللغات و غيرها من الادوات الرائعة لتسهيل عملية تطوير اي مشروع و يكون الكود سلس و نظيف  
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
