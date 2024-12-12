@@ -1,5 +1,5 @@
 
-![](jodija.png)
+![](../jodija.png)
 
 ## مقدمة عن Jodija
 
