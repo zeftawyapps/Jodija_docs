@@ -9,28 +9,3 @@ It is comprised of two libraries that form a framework, each playing a role in m
 
 2-**Jodija data view**: It is a library that manages the data flow coming from the Data source library or any repository and is formatted either as JSON or as its specific data model to be displayed to the user. It includes several input tools that help developers create input interfaces such as text boxes, calendars, and image files to be easily converted to JSON format. It also includes local storage tools and has state management built on `Cubit` and `Provider`. It includes project settings management to link the project with any work environment and tools to make the project multilingual, among other great tools to facilitate the development of any project, ensuring the code is smooth and clean.
 
-
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
