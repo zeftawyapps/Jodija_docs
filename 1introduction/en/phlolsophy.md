@@ -16,6 +16,7 @@ Here, the idea of Jodija emerged to solve this problem as shown in the following
 ![Diagram](../../images/docs/flow_chart1.png)
 
 In the previous diagram, we saw how to solve the data path from interfaces to servers using the Jodija data view library and the Jodija data source library. Let's explain the role of each library in detail.
+
 **1- Jodija Data Source Library**: It controls the management of the data path that we receive or send to servers via APIs or any server platforms like Firebase. It reforms the data according to the business logic to be displayed to the user if the data comes from the server or reformats it as JSON if sending it to servers.
 
 **_How does the Data Source Library work?_**
@@ -25,4 +26,4 @@ These include `FirebaseLoadingData` for querying data from Firestore and other c
 **2- Jodija Data View Library**: This library controls managing the data path coming from the Data Source library or any Repository. It can either be formatted as JSON or as its own data model to be displayed to the user. It includes several input tools that assist developers in developing input interfaces such as text boxes, date pickers, and image files to be easily converted to JSON format. It also contains local storage tools and state management built on `cubit` and `provider`. Additionally, it includes project settings management to connect the project to any work environment and tools to make the project multilingual, among other great tools to facilitate the development of any project and ensure the code is smooth and clean. All these details are in the Data View section.
 
 > [!IMPORTANT]
-> Finally, we would like to clarify that if you are going to use several technologies other than Flutter for your project, for example, another web technology for the control panel and user web pages, and your project is for mobile applications, then this project is called One Solution. The libraries have been prepared for this task as well, with tools added to assist you in developing such a project.
+> Finally, we would like to clarify that if you are going to use several technologies other than Flutter for your project, for example, another web technology for the control panel and user web pages, and your project is for mobile applications, then this project is called **One Solution**. The libraries have been prepared for this task as well, with tools added to assist you in developing such a project.
